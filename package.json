@@ -10,6 +10,10 @@
         "brackets",
         "muted"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Sukadia/sukadia.dev-dark"
+    },
     "engines": {
         "vscode": "^1.63.0"
     },
