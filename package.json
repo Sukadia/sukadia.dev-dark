@@ -1,0 +1,31 @@
+{
+    "name": "sukadia-dev-dark",
+    "displayName": "sukadia.dev/dark",
+    "description": "Based on \"Brackets Dark\" with better language support.",
+    "version": "1.0.1",
+    "publisher": "Sukadia",
+    "keywords": [
+        "theme",
+        "dark",
+        "brackets",
+        "muted"
+    ],
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "sukadia.dev/dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/sukadia.devdark-color-theme.json"
+            }
+        ]
+    },
+    "dependencies": {
+        "vsce": "^2.6.3"
+    }
+}
