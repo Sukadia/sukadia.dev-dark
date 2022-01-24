@@ -1,8 +1,8 @@
 {
     "name": "sukadia-dev-dark",
     "displayName": "sukadia.dev/dark",
-    "description": "Based on \"Brackets Dark\" with better language support.",
-    "version": "1.0.1",
+    "description": "A theme based on \"Brackets Dark\" with better language support.",
+    "version": "1.0.3",
     "publisher": "Sukadia",
     "keywords": [
         "theme",
@@ -14,6 +14,7 @@
         "type": "git",
         "url": "https://github.com/Sukadia/sukadia.dev-dark"
     },
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.63.0"
     },
