@@ -1,5 +1,17 @@
 # Change Log
 
+## [1.0.6]
+
+- Fix annoying double newline in readme
+
+## [1.0.5]
+
+- Rebrand to /dark
+
+## [1.0.4]
+
+- Add React component highlights (support.class.component.tsx)
+
 ## [1.0.3]
 
 - Actually add the icon
