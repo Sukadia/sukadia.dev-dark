@@ -783,6 +783,13 @@
 		}
 	  },
 	  {
+		"name": "TSX Component",
+		"scope": "support.class.component.tsx",
+		"settings": {
+		  "foreground": "#d89333"
+		}
+	  },
+	  {
 		"name": "Attributes",
 		"scope": "entity.other.attribute-name",
 		"settings": {
@@ -793,7 +800,6 @@
 		"name": "Attribute IDs",
 		"scope": "entity.other.attribute-name.id",
 		"settings": {
-		  "fontStyle": "normal",
 		  "foreground": "#b77fdb"
 		}
 	  },
@@ -801,7 +807,6 @@
 		"name": "Attribute class",
 		"scope": "entity.other.attribute-name.class.css",
 		"settings": {
-		  "fontStyle": "normal",
 		  "foreground": "#85a300"
 		}
 	  },
